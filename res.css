@@ -1,0 +1,17 @@
+header {
+    font-size: 40px;
+}
+
+section {
+    margin: 10px;
+    font-size: 30px;
+    color: blue;
+}
+
+div {
+    font-style: oblique;
+    font-size: 20px;
+}
+.a {
+    text-decoration: underline;
+}
