@@ -2,16 +2,49 @@ header {
     font-size: 40px;
 }
 
+.block {
+    background: rgb(63, 25, 231);
+    height: 30px;
+    width: 150px;
+    margin: 10px;
+    padding: 20px;
+    
+   
+}
+
+table {
+    text-align: left;
+    width: 2000px; 
+    margin: 10px;
+    padding: 10px;
+}
+
+
 section {
     margin: 10px;
     font-size: 30px;
-    color: blue;
+    color: rgb(63, 25, 231);;
 }
 
 div {
     font-style: oblique;
     font-size: 20px;
+ 
 }
+
 .a {
     text-decoration: underline;
+}
+
+#ava {
+    width: 150px;
+    border-radius: 100px;
+    margin: auto 100px;
+}
+
+.footer {
+    margin: 0;
+width: 100%;
+height: 120px;
+background-color: rgb(63, 25, 231);
 }
