@@ -1,6 +1,7 @@
 import Ava from './components/avatar/Ava.js'
 import First from './components/block/first/first'
 import Second from './components/block/second/second'
+import Footer from './components/footer/footer'
 import './App.css';
 
 function App() {
@@ -18,7 +19,7 @@ function App() {
           <Second /> </div>
           </div>
           </div>
-          <div class="footer"></div>
+          <Footer />
 </div>
           
           
