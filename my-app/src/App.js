@@ -7,22 +7,22 @@ import './App.css';
 function App() {
   return (
     <div class="App">
-        <div>
-          <div class="block"></div>
-          <Ava />
-          <header>РЕЗЮМЕ</header>
-          <div class="textcols">
-            <div class="textcols-item">
-              <First /> </div>
+      <div>
+        <div class="block"></div>
+        <Ava />
+        <header>РЕЗЮМЕ</header>
+        <div class="textcols">
+          <div class="textcols-item">
+            <First /> </div>
 
-            <div class="textcols-item">
-          <Second /> </div>
-          </div>
-          </div>
-          <Footer />
-</div>
-          
-          
+          <div class="textcols-item">
+            <Second /> </div>
+        </div>
+      </div>
+      <Footer />
+    </div>
+
+
   );
 }
 
